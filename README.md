@@ -1,6 +1,7 @@
 # Hi there 👋 I'm Prathamesh Sawant, 
 A Data Scientist with a passion for exploring and analyzing complex datasets to uncover meaningful insights. 
 I love working on diverse projects that challenge me to constantly learn and apply new techniques to solve complex problems.
+And I am constantly learning and improving my skills to stay at the forefront of data science.
 
 
 ## What I Do?
@@ -20,5 +21,6 @@ I love working on diverse projects that challenge me to constantly learn and app
 
 
 # Get in Touch
-I'm always interested in new opportunities and collaborations, so feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/prathamesh-p-sawant/). 
+I believe in sharing knowledge and contributing to the data science community, and I am always open to collaborate on new projects and opportunities.
+So feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/prathamesh-p-sawant/). 
 Let's chat about how we can work together to leverage data and drive business success!
